@@ -1,4 +1,4 @@
-package com.example.sty24;
+package com.example.sty24_z2;
 
 import android.os.Bundle;
 import android.view.View;
